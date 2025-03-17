@@ -63,7 +63,7 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 ### 4) Which are the top 10 countries based on weather conditions and air quality metrics?
 
-<\br>
+</br>
 
 <div style="text-align: center;"> <img width="700" alt="Ranking" src="Ranking.png"> </div>
 
@@ -75,11 +75,11 @@ Here are the key questions we aim to answer through this interactive dashboard:
 * **Malaysia** has the highest carbon monoxide pollution, **South Korea** leads in nitrogen dioxide, and China in sulfur dioxide levels.
 * **Bahrain** has the highest ozone levels, while **Chile** records the highest PM2.5 index.
 
-<\br>
+</br>
 
 ### 5) What is the correlation between weather conditions and air pollutants?
 
-<\br>
+</br>
 
 <div style="text-align: center;"> <img width="700" alt="Correlation" src="Correlation.png"> </div>
 
