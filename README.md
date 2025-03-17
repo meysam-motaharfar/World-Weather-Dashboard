@@ -30,7 +30,7 @@ Here are the key features of the dashboard:
 
 # Data Sources
 
-For this analysis, I used the World Weather Repository, a continuously updated dataset available ![here](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data). 
+For this analysis, I used the World Weather Repository, a continuously updated dataset available [here](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data). 
 
 # Tools Used
 
@@ -55,7 +55,7 @@ Here is a preview of the dashboard:
 
 <div style="text-align: center;"> <img width="700" alt="World Weather Dashboard" src="World Weather Dashboard.png"> </div>
 
-You can explore the interactive dashboard![here](https://public.tableau.com/app/profile/meysam.motaharfar/viz/WorldWeatherDashboard/Dashboard2)
+You can explore the interactive dashboard [here](https://public.tableau.com/app/profile/meysam.motaharfar/viz/WorldWeatherDashboard/Dashboard2)
 
 # Conclusions
 
