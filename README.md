@@ -8,7 +8,7 @@ AUTHORS: Meysam Motaharfar
 # Table of Contents
 1. [Project Overview](#Project-Overview)
 2. [Key Features](#Key-Features)
-3. [Dataset Sources](#Dataset-Overview-and-Feature-Dictionary)
+3. [Dataset Sources and Overview](#Dataset-Source-And-Overview)
 4. [Tools Used](#Tools-Used)
 5. [Key Questions](#Key-Questions)
 6. [Key Insights](#Key-Insights)
@@ -28,9 +28,9 @@ Here are the key features of the dashboard:
 * Tourism Planning – Identify optimal travel periods based on historical weather conditions.
 * Geographical Patterns – Compare weather trends across different continents and countries.
 
-# Data Sources
+# Data Sources and Overview
 
-For this analysis, I used the World Weather Repository, a continuously updated dataset available [here](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data). 
+For this analysis, I used the World Weather Repository, a continuously updated dataset available [here](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data). This dataset contains daily weather data for capital cities worldwide. Unlike forecast data, it offers a comprehensive snapshot of the current weather conditions, providing over 40 features. These include temperature, wind speed, atmospheric pressure, precipitation, humidity, visibility, air quality metrics, and more, making it a valuable resource for climate analysis and related applications.
 
 # Tools Used
 
