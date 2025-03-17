@@ -65,6 +65,8 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 </br>
 
+<div style="text-align: center;"> <img width="700" alt="Ranking" src="Ranking.png"> </div>
+
 * **Saudi Arabia** is the hottest country with the highest UV index and PM10 levels.
 * **Lao People's Democratic Republic** experiences the highest precipitation and is the cloudiest nation.
 * **Belize** has the highest humidity, while **Mexico** records the highest pressure.
@@ -73,8 +75,7 @@ Here are the key questions we aim to answer through this interactive dashboard:
 * **Malaysia** has the highest carbon monoxide pollution, **South Korea** leads in nitrogen dioxide, and China in sulfur dioxide levels.
 * **Bahrain** has the highest ozone levels, while **Chile** records the highest PM2.5 index.
 
-
-<div style="text-align: center;"> <img width="700" alt="Ranking" src="Ranking.png"> </div>
+<\br>
 
 ### 5) What is the correlation between weather conditions and air pollutants?
 
