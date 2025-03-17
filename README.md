@@ -63,7 +63,7 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 ### 4) Which are the top 10 countries based on weather conditions and air quality metrics?
 
-</br>
+<\br>
 
 <div style="text-align: center;"> <img width="700" alt="Ranking" src="Ranking.png"> </div>
 
@@ -78,6 +78,8 @@ Here are the key questions we aim to answer through this interactive dashboard:
 <\br>
 
 ### 5) What is the correlation between weather conditions and air pollutants?
+
+<\br>
 
 <div style="text-align: center;"> <img width="700" alt="Correlation" src="Correlation.png"> </div>
 
@@ -95,6 +97,7 @@ The analysis of the World Weather Dashboard highlights key relationships between
   
 These findings indicate that colder, humid, and less sunny conditions tend to worsen air quality, while wind plays a minor role in improving it, and precipitation has only a limited impact.
 
+<\br>
 
 # Dashboard Overview
 
