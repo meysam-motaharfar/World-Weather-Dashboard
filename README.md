@@ -49,23 +49,23 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 # Key Insights
 
-### What is the overall behavior of world weather conditions and air quality metrics?
+### What are the average trends for key weather conditions and air quality metrics globally?
 
 <div style="text-align: center;"> <img width="700" alt="Metrics" src="Metrics.png"> </div>
 
-### Map
+### How do weather conditions and air quality metrics vary geographically and across different months?
 
 <div style="text-align: center;"> <img width="700" alt="Map" src="Map.png"> </div>
 
-### Variation Over Time
+### How do weather conditions and air quality metrics vary over time, both globally and by country?
 
 <div style="text-align: center;"> <img width="700" alt="Variation Over Time" src="Variation Over Time.png"> </div>
 
-### Ranking
+### Which are the top 10 countries based on weather conditions and air quality metrics?
 
 <div style="text-align: center;"> <img width="700" alt="Ranking" src="Ranking.png"> </div>
 
-### Correlation
+### What is the correlation between weather conditions and air quality metrics?
 
 <div style="text-align: center;"> <img width="700" alt="Correlation" src="Correlation.png"> </div>
 
