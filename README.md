@@ -119,10 +119,15 @@ These findings indicate that colder, humid, and less sunny conditions tend to wo
 
 Here is a preview of the dashboard:
 
+</br>
+
 <div style="text-align: center;"> <img width="700" alt="World Weather Dashboard" src="World Weather Dashboard.png"> </div>
 
+</br>
 
 You can explore the interactive dashboard [here](https://public.tableau.com/app/profile/meysam.motaharfar/viz/WorldWeatherDashboard/Dashboard2).
+
+</br>
 
 # Conclusions
 
