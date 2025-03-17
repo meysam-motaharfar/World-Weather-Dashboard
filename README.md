@@ -1,4 +1,4 @@
-Worald Weather Dashboard 
+Worald Weather Dashboard (May 2024 - March 2025)
 ================================================
 
 AUTHORS: Meysam Motaharfar 
