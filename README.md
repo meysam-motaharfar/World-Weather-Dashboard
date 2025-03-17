@@ -49,6 +49,18 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 # Key Insights
 
+<div style="text-align: center;"> <img width="700" alt="Metrics" src="World Weather Dashboard.png"> </div>
+
+<div style="text-align: center;"> <img width="700" alt="Map" src="World Weather Dashboard.png"> </div>
+
+<div style="text-align: center;"> <img width="700" alt="Variation Over Time" src="World Weather Dashboard.png"> </div>
+
+<div style="text-align: center;"> <img width="700" alt="Ranking" src="World Weather Dashboard.png"> </div>
+
+<div style="text-align: center;"> <img width="700" alt="Correlation" src="World Weather Dashboard.png"> </div>
+
+
+
 # Dashboard Overview
 
 Here is a preview of the dashboard:
