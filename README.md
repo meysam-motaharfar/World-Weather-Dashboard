@@ -72,11 +72,11 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 The analysis of the World Weather Dashboard reveals key relationships between meteorological factors and air quality metrics:
 
-* Temperature shows a strong inverse correlation with air pollutants—lower temperatures correspond to higher levels of carbon monoxide, nitrogen dioxide, sulfur dioxide, and other air quality indicators.
-* Precipitation has a weak inverse correlation with air pollution—lower rainfall is linked to slightly higher pollutant levels.
-* Humidity exhibits a moderate positive correlation—higher humidity is associated with increased air pollution levels.
-* Cloud Coverage also shows a moderate positive correlation—greater cloud cover corresponds to higher air pollution.
-* UV Index has a moderate inverse correlation—lower UV levels coincide with increased pollution levels.
+* **Temperature** shows a **strong inverse correlation** with air pollutants—lower temperatures correspond to higher levels of carbon monoxide, nitrogen dioxide, sulfur dioxide, and other air quality indicators.
+* **Precipitation** has a **weak inverse correlation** with air pollution—lower rainfall is linked to slightly higher pollutant levels.
+* **Humidity** exhibits a **moderate positive correlation**—higher humidity is associated with increased air pollution levels.
+* **Cloud Coverage** also shows a **moderate positive correlation**—greater cloud cover corresponds to higher air pollution.
+* **UV Index** has a **moderate inverse correlation**—lower UV levels coincide with increased pollution levels.
   
 These findings suggest that colder, humid, and less sunny conditions tend to be associated with poorer air quality, while precipitation has a limited impact.
 
