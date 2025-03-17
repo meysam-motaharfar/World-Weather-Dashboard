@@ -7,12 +7,13 @@ AUTHORS: Meysam Motaharfar
 
 # Table of Contents
 1. [Project Overview](#Project-Overview)
-2. [Dataset Sources](#Dataset-Overview-and-Feature-Dictionary)
-3. [Tools Used](#Tools-Used)
-4. [Key Questions](#Key-Questions)
-5. [Key Insights](#Key-Insights)
-6. [Dashboard Overiew](#Dashboard-Overview)
-7. [Conclusion](#Conclusion)
+2. [Key Features](#Key-Features)
+3. [Dataset Sources](#Dataset-Overview-and-Feature-Dictionary)
+4. [Tools Used](#Tools-Used)
+5. [Key Questions](#Key-Questions)
+6. [Key Insights](#Key-Insights)
+7. [Dashboard Overiew](#Dashboard-Overview)
+8. [Conclusion](#Conclusion)
 
 # Project Overview
 
