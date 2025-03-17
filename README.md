@@ -1,6 +1,8 @@
 Worald Weather Dashboard (May 2024 - March 2025)
 ================================================
 
+Exploring Climate Patterns & Environmental Impact
+
 AUTHORS: Meysam Motaharfar 
 
 ### Table of Contents
@@ -13,4 +15,8 @@ AUTHORS: Meysam Motaharfar
 7. [Conclusion](#Conclusion)
 
 ## Project Overview
+
+This interactive dashboard provides in-depth analysis of global weather patterns, environmental factors, and geographical variations using the World Weather Dataset. It allows users to explore how climate conditions change across regions and how weather impacts air quality, tourism, and broader environmental trends.
+
+
 
