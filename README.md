@@ -65,20 +65,21 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 <div style="text-align: center;"> <img width="700" alt="Ranking" src="Ranking.png"> </div>
 
-### What is the correlation between weather conditions and air quality metrics?
-
+### What is the correlation between weather conditions and air pollutants?
 
 <div style="text-align: center;"> <img width="700" alt="Correlation" src="Correlation.png"> </div>
 
-The analysis of the World Weather Dashboard reveals key relationships between meteorological factors and air quality metrics:
+The analysis of the World Weather Dashboard highlights key relationships between meteorological factors and air quality metrics:
 
-* **Temperature** shows a **strong inverse correlation** with air pollutants—lower temperatures correspond to higher levels of carbon monoxide, nitrogen dioxide, sulfur dioxide, and other air quality indicators.
-* **Precipitation** has a **weak inverse correlation** with air pollution—lower rainfall is linked to slightly higher pollutant levels.
-* **Humidity** exhibits a **moderate positive correlation**—higher humidity is associated with increased air pollution levels.
-* **Cloud Coverage** also shows a **moderate positive correlation**—greater cloud cover corresponds to higher air pollution.
-* **UV Index** has a **moderate inverse correlation**—lower UV levels coincide with increased pollution levels.
-  
-These findings suggest that colder, humid, and less sunny conditions tend to be associated with poorer air quality, while precipitation has a limited impact.
+* **Temperature** exhibits a **strong inverse correlation** with air pollution—lower temperatures are associated with higher levels of carbon monoxide, nitrogen dioxide, sulfur dioxide, and other pollutants.
+* **Precipitation** shows a **weak inverse correlation**—lower rainfall corresponds to slightly higher pollutant levels.
+* **Humidity** demonstrates a **moderate positive correlation**—higher humidity is linked to increased air pollution levels.
+* **Pressure** has a **moderate positive correlation**—higher atmospheric pressure is associated with elevated pollutant concentrations.
+* **Cloud Coverage** shows a **moderate positive correlation**—greater cloud cover corresponds to higher air pollution levels.
+* **Wind** exhibits a **weak inverse correlation**—stronger winds help disperse pollutants and reduce air pollution.
+* **UV Index** has a **moderate inverse correlation**—lower UV levels are linked to increased pollution levels.
+* 
+These findings indicate that colder, humid, and less sunny conditions tend to worsen air quality, while wind plays a minor role in improving it, and precipitation has only a limited impact.
 
 
 # Dashboard Overview
