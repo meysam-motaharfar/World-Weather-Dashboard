@@ -49,7 +49,7 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 # Key Insights
 
-### Metircs
+### What is the overall behavior of world weather conditions and air quality metrics?
 
 <div style="text-align: center;"> <img width="700" alt="Metrics" src="Metrics.png"> </div>
 
