@@ -18,7 +18,7 @@ AUTHORS: Meysam Motaharfar
 
 This interactive dashboard provides in-depth analysis of global weather patterns, environmental factors, and geographical variations using the World Weather Dataset. It allows users to explore how climate conditions change across regions and how weather impacts air quality, tourism, and broader environmental trends.
 
-## Key Features
+# Key Features
 
 * Climate Analysis – Study long-term climate trends and seasonal variations in different regions.
 * Environmental Impact – Analyze air quality metrics and their correlation with weather parameters.
