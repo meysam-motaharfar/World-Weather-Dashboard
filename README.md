@@ -49,23 +49,39 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 # Key Insights
 
+</br>
+
 ### 1) What are the average trends for key weather conditions and air quality metrics globally?
+
+</br>
 
 <div style="text-align: center;"> <img width="700" alt="Metrics" src="Metrics.png"> </div>
 
+</br>
+
 ### 2) How do weather conditions and air quality metrics vary geographically and across different months?
+
+</br>
 
 <div style="text-align: center;"> <img width="700" alt="Map" src="Map.png"> </div>
 
+</br>
+
 ### 3) How do weather conditions and air quality metrics vary over time, both globally and by country?
 
+</br>
+
 <div style="text-align: center;"> <img width="700" alt="Variation Over Time" src="Variation Over Time.png"> </div>
+
+</br>
 
 ### 4) Which are the top 10 countries based on weather conditions and air quality metrics?
 
 </br>
 
 <div style="text-align: center;"> <img width="700" alt="Ranking" src="Ranking.png"> </div>
+
+</br>
 
 * **Saudi Arabia** is the hottest country with the highest UV index and PM10 levels.
 * **Lao People's Democratic Republic** experiences the highest precipitation and is the cloudiest nation.
@@ -97,7 +113,7 @@ The analysis of the World Weather Dashboard highlights key relationships between
   
 These findings indicate that colder, humid, and less sunny conditions tend to worsen air quality, while wind plays a minor role in improving it, and precipitation has only a limited impact.
 
-<\br>
+</br>
 
 # Dashboard Overview
 
