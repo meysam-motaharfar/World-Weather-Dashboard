@@ -49,16 +49,25 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 # Key Insights
 
+### Metircs
+
 <div style="text-align: center;"> <img width="700" alt="Metrics" src="Metrics.png"> </div>
+
+### Map
 
 <div style="text-align: center;"> <img width="700" alt="Map" src="Map.png"> </div>
 
+### Variation Over Time
+
 <div style="text-align: center;"> <img width="700" alt="Variation Over Time" src="Variation Over Time.png"> </div>
+
+### Ranking
 
 <div style="text-align: center;"> <img width="700" alt="Ranking" src="Ranking.png"> </div>
 
-<div style="text-align: center;"> <img width="700" alt="Correlation" src="Correlation.png"> </div>
+### Correlation
 
+<div style="text-align: center;"> <img width="700" alt="Correlation" src="Correlation.png"> </div>
 
 
 # Dashboard Overview
