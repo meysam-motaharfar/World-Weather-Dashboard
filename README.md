@@ -113,8 +113,6 @@ The analysis of the World Weather Dashboard highlights key relationships between
   
 These findings indicate that colder, humid, and less sunny conditions tend to worsen air quality, while wind plays a minor role in improving it, and precipitation has only a limited impact.
 
-</br>
-
 # Dashboard Overview
 
 Here is a preview of the dashboard:
