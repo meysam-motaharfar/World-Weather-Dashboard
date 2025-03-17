@@ -21,6 +21,8 @@ This interactive dashboard provides in-depth analysis of global weather patterns
 
 # Key Features
 
+Here are the key features of the dashboard:
+
 * Climate Analysis – Study long-term climate trends and seasonal variations in different regions.
 * Environmental Impact – Analyze air quality metrics and their correlation with weather parameters.
 * Tourism Planning – Identify optimal travel periods based on historical weather conditions.
@@ -29,6 +31,33 @@ This interactive dashboard provides in-depth analysis of global weather patterns
 # Data Sources
 
 For this analysis, I used the World Weather Repository, a continuously updated dataset available ![here](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data). 
+
+# Tools Used
+
+* SQL
+* Tableau
+
+# Key Questions
+
+Here are the key questions we aim to answer through this interactive dashboard:
+
+* How have long-term climate trends and seasonal variations evolved across different regions?
+* What is the relationship between air quality metrics and various weather parameters?
+* When are the optimal travel periods based on historical weather conditions?
+* How do weather patterns vary across different continents, countries and over time?
+* And more
+
+# Key Insights
+
+# Dashboard Overview
+
+<div style="text-align: center;">
+    <img width="700" alt="image" src="Worald Weather Dashboard.png">
+</div>
+
+
+
+
 
 
 
