@@ -69,6 +69,8 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 <div style="text-align: center;"> <img width="700" alt="Correlation" src="Correlation.png"> </div>
 
+</br>
+
 The analysis of the World Weather Dashboard highlights key relationships between meteorological factors and air quality metrics:
 
 * **Temperature** exhibits a **strong inverse correlation** with air pollution—lower temperatures are associated with higher levels of carbon monoxide, nitrogen dioxide, sulfur dioxide, and other pollutants.
@@ -78,7 +80,7 @@ The analysis of the World Weather Dashboard highlights key relationships between
 * **Cloud Coverage** shows a **moderate positive correlation**—greater cloud cover corresponds to higher air pollution levels.
 * **Wind** exhibits a **weak inverse correlation**—stronger winds help disperse pollutants and reduce air pollution.
 * **UV Index** has a **moderate inverse correlation**—lower UV levels are linked to increased pollution levels.
-* 
+  
 These findings indicate that colder, humid, and less sunny conditions tend to worsen air quality, while wind plays a minor role in improving it, and precipitation has only a limited impact.
 
 
