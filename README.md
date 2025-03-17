@@ -26,5 +26,9 @@ This interactive dashboard provides in-depth analysis of global weather patterns
 * Tourism Planning – Identify optimal travel periods based on historical weather conditions.
 * Geographical Patterns – Compare weather trends across different continents and countries.
 
+# Data Sources
+
+For this analysis, I used the World Weather Repository, a continuously updated dataset available ![here](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data). 
+
 
 
