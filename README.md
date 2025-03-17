@@ -49,15 +49,15 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 # Key Insights
 
-<div style="text-align: center;"> <img width="700" alt="Metrics" src="World Weather Dashboard.png"> </div>
+<div style="text-align: center;"> <img width="700" alt="Metrics" src="Metrics.png"> </div>
 
-<div style="text-align: center;"> <img width="700" alt="Map" src="World Weather Dashboard.png"> </div>
+<div style="text-align: center;"> <img width="700" alt="Map" src="Map.png"> </div>
 
-<div style="text-align: center;"> <img width="700" alt="Variation Over Time" src="World Weather Dashboard.png"> </div>
+<div style="text-align: center;"> <img width="700" alt="Variation Over Time" src="Variation Over Time.png"> </div>
 
-<div style="text-align: center;"> <img width="700" alt="Ranking" src="World Weather Dashboard.png"> </div>
+<div style="text-align: center;"> <img width="700" alt="Ranking" src="Ranking.png"> </div>
 
-<div style="text-align: center;"> <img width="700" alt="Correlation" src="World Weather Dashboard.png"> </div>
+<div style="text-align: center;"> <img width="700" alt="Correlation" src="Correlation.png"> </div>
 
 
 
