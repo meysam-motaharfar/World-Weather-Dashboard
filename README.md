@@ -63,6 +63,17 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 ### 4) Which are the top 10 countries based on weather conditions and air quality metrics?
 
+</br>
+
+* **Saudi Arabia** is the hottest country with the highest UV index and PM10 levels.
+* **Lao People's Democratic Republic** experiences the highest precipitation and is the cloudiest nation.
+* **Belize** has the highest humidity, while **Mexico** records the highest pressure.
+* **Marshall** Islands has the greatest visibility, whereas **Libya** is the windiest country.
+* **Iceland** experiences the strongest gusts.
+* **Malaysia** has the highest carbon monoxide pollution, **South Korea** leads in nitrogen dioxide, and China in sulfur dioxide levels.
+* **Bahrain** has the highest ozone levels, while **Chile** records the highest PM2.5 index.
+
+
 <div style="text-align: center;"> <img width="700" alt="Ranking" src="Ranking.png"> </div>
 
 ### 5) What is the correlation between weather conditions and air pollutants?
