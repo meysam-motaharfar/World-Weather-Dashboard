@@ -71,7 +71,7 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 </br>
 
-The analysis of the World Weather Dashboard highlights key relationships between meteorological factors and air quality metrics:
+The analysis of the World Weather Dashboard highlights key relationships between weather conditions and air pollutants:
 
 * **Temperature** exhibits a **strong inverse correlation** with air pollution—lower temperatures are associated with higher levels of carbon monoxide, nitrogen dioxide, sulfur dioxide, and other pollutants.
 * **Precipitation** shows a **weak inverse correlation**—lower rainfall corresponds to slightly higher pollutant levels.
