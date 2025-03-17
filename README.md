@@ -13,7 +13,7 @@ AUTHORS: Meysam Motaharfar
 5. [Key Questions](#Key-Questions)
 6. [Key Insights](#Key-Insights)
 7. [Dashboard Overiew](#Dashboard-Overview)
-8. [Conclusion](#Conclusion)
+8. [Conclusions](#Conclusions)
 
 # Project Overview
 
@@ -51,9 +51,13 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 # Dashboard Overview
 
-<div style="text-align: center;">
-    <img width="700" alt="image" src="World Weather Dashboard.png">
-</div>
+Here is a preview of the dashboard:
+
+<div style="text-align: center;"> <img width="700" alt="World Weather Dashboard" src="World Weather Dashboard.png"> </div>
+
+You can explore the interactive dashboard![here](https://public.tableau.com/app/profile/meysam.motaharfar/viz/WorldWeatherDashboard/Dashboard2)
+
+# Conclusions
 
 
 
