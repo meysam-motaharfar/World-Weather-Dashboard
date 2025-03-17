@@ -52,7 +52,7 @@ Here are the key questions we aim to answer through this interactive dashboard:
 # Dashboard Overview
 
 <div style="text-align: center;">
-    <img width="700" alt="image" src="Worald Weather Dashboard.png">
+    <img width="700" alt="image" src="World Weather Dashboard.png">
 </div>
 
 
