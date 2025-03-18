@@ -1,4 +1,4 @@
-Worald Weather Dashboard (May 2024 - March 2025)
+2Worald Weather Dashboard (May 2024 - March 2025)
 ================================================
 
 Exploring Climate Patterns & Environmental Impact
@@ -111,7 +111,7 @@ The ranking chart highlights the following insights regarding weather conditions
 
 </br>
 
-The analysis of the World Weather Dashboard highlights key relationships between weather conditions and air pollutants:
+The scatter plot analysis reveals key relationships between weather conditions and air pollutants:
 
 * **Temperature** exhibits a **strong inverse correlation** with air pollution—lower temperatures are associated with higher levels of carbon monoxide, nitrogen dioxide, sulfur dioxide, and other pollutants.
 * **Precipitation** shows a **weak inverse correlation**—lower rainfall corresponds to slightly higher pollutant levels.
