@@ -83,6 +83,8 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 </br>
 
+The ranking chart highlights the following insights regarding weather conditions and air quality metrics across different countries:
+
 * **Saudi Arabia** is the hottest country with the highest UV index and PM10 levels.
 * **Lao People's Democratic Republic** experiences the highest precipitation and is the cloudiest nation.
 * **Belize** has the highest humidity, while **Mexico** records the highest pressure.
@@ -90,6 +92,16 @@ Here are the key questions we aim to answer through this interactive dashboard:
 * **Iceland** experiences the strongest gusts.
 * **Malaysia** has the highest carbon monoxide pollution, **South Korea** leads in nitrogen dioxide, and China in sulfur dioxide levels.
 * **Bahrain** has the highest ozone levels, while **Chile** records the highest PM2.5 index.
+* **Mongolia** has the highest temperature variation.
+* **Jamaica** experiences the greatest fluctuation in precipitation.
+* **Cameroon** records the largest humidity variation.
+* **Honduras** has the widest pressure fluctuation.
+* **United States** sees the greatest changes in cloud coverage.
+* **Canada** has the most variable visibility.
+* **Burundi** experiences the largest wind and gust variation.
+* **Brazil** has the highest UV index fluctuation.
+* **Indonesia**, **Iraq**, and **Kiribati** show the largest variations in carbon monoxide, nitrogen dioxide, and sulfur dioxide, respectively.
+* **Bahrain**, **Saudi Arabia**, and **Chile** have the greatest fluctuations in ozone, PM10, and PM2.5 levels, respectively.
 
 ### 5) What is the correlation between weather conditions and air pollutants?
 
