@@ -1,4 +1,4 @@
-2Worald Weather Dashboard (May 2024 - March 2025)
+Worald Weather Dashboard (May 2024 - March 2025)
 ================================================
 
 Exploring Climate Patterns & Environmental Impact
