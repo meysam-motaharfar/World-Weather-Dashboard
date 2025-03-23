@@ -69,6 +69,8 @@ The map below displays the geospatial variation in weather conditions across dif
 
 <div style="text-align: center;"> <img width="700" alt="Map" src="Map.png"> </div>
 
+</br>
+
 The geospatial chart provides insights into weather conditions and air quality metrics, highlighting the following key patterns and trends:
 
 * **Average Temperature:** Most African countries, the Middle East, and South Asia experienced higher average temperatures during this period compared to the rest of the world.
@@ -84,10 +86,6 @@ The geospatial chart provides insights into weather conditions and air quality m
 * **Ozone Levels:** The highest ozone concentrations were observed in North and South Africa and the Middle East, which may have implications for air quality and health.
 * **PM10 Levels:** Saudi Arabia recorded the highest PM10 index, reflecting elevated particulate matter concentrations in the air.
 * **Sulfur Dioxide:** Asia, particularly China, had the highest sulfur dioxide levels, indicating significant industrial pollution and air quality challenges.
-
-
-
-</br>
 
 ### 3) How do weather conditions and air quality metrics vary over time, both globally and by country?
 
