@@ -89,11 +89,30 @@ The geospatial chart provides insights into weather conditions and air quality m
 
 ### 3) How do weather conditions and air quality metrics vary over time, both globally and by country?
 
+The following trend charts illustrate the variation in weather conditions and air quality metrics over time, both globally and by country:
+
 </br>
 
 <div style="text-align: center;"> <img width="700" alt="Variation Over Time" src="Variation Over Time.png"> </div>
 
 </br>
+
+The trend charts reveal the following key insights into weather conditions and air quality metrics:
+
+* The highest average temperature occurs in July, and the lowest in January.
+* Precipitation peaks in September, with the lowest in March.
+* Humidity is highest in March and lowest in June.
+* Pressure is highest in February and lowest in July.
+* Cloud coverage is highest in March and lowest in May.
+* Visibility is best in June and worst in March.
+* Windy weather is most frequent in June and least in November.
+* Gusts are highest in May and lowest in October.
+* The UV index peaks in August and drops to its lowest in December.
+* Carbon monoxide levels are highest in November and lowest in September.
+* Nitrogen dioxide levels are highest in November and lowest in August.
+* Ozone levels are highest in September and lowest in November.
+* PM10 and PM2.5 levels are lowest in August and highest in March.
+* Sulfur dioxide levels are lowest in July and highest in January. 
 
 ### 4) Which are the top 10 countries based on weather conditions and air quality metrics?
 
