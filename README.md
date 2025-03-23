@@ -53,6 +53,8 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 ### 1) What are the average trends for key weather conditions and air quality metrics globally?
 
+The chart below illustrates the global average trends for key weather conditions and air quality metrics:
+
 </br>
 
 <div style="text-align: center;"> <img width="700" alt="Metrics" src="Metrics.png"> </div>
@@ -60,6 +62,8 @@ Here are the key questions we aim to answer through this interactive dashboard:
 </br>
 
 ### 2) How do weather conditions and air quality metrics vary geographically and across different months?
+
+The map below displays the geospatial variation in weather conditions across different countries and months:
 
 </br>
 
