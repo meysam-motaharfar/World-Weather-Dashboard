@@ -58,7 +58,7 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 The chart below illustrates the global average trends for key weather conditions and air quality metrics:
 
-<div style="text-align: center;"> <img width="700" alt="Metrics" src="Metrics.png"> </div>
+<div style="text-align: center;"> <img width="1000" alt="Metrics" src="Metrics.png"> </div>
 
 </br>
 
@@ -68,7 +68,7 @@ The chart below illustrates the global average trends for key weather conditions
 
 The map below displays the geospatial variation in weather conditions across different countries and months:
 
-<div style="text-align: center;"> <img width="700" alt="Map" src="Map.png"> </div>
+<div style="text-align: center;"> <img width="1000" alt="Map" src="Map.png"> </div>
 
 </br>
 
@@ -94,7 +94,7 @@ The following trend charts illustrate the variation in weather conditions and ai
 
 </br>
 
-<div style="text-align: center;"> <img width="700" alt="Variation Over Time" src="Variation Over Time.png"> </div>
+<div style="text-align: center;"> <img width="1000" alt="Variation Over Time" src="Variation Over Time.png"> </div>
 
 </br>
 
@@ -119,7 +119,7 @@ The trend charts reveal the following key insights into weather conditions and a
 
 </br>
 
-<div style="text-align: center;"> <img width="700" alt="Ranking" src="Ranking.png"> </div>
+<div style="text-align: center;"> <img width="1000" alt="Ranking" src="Ranking.png"> </div>
 
 </br>
 
@@ -147,7 +147,7 @@ The ranking chart highlights the following insights regarding weather conditions
 
 </br>
 
-<div style="text-align: center;"> <img width="700" alt="Correlation" src="Correlation.png"> </div>
+<div style="text-align: center;"> <img width="1000" alt="Correlation" src="Correlation.png"> </div>
 
 </br>
 
@@ -169,7 +169,7 @@ Here is a preview of the dashboard:
 
 </br>
 
-<div style="text-align: center;"> <img width="700" alt="World Weather Dashboard" src="World Weather Dashboard.png"> </div>
+<div style="text-align: center;"> <img width="1000" alt="World Weather Dashboard" src="World Weather Dashboard.png"> </div>
 
 </br>
 
