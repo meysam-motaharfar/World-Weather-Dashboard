@@ -53,9 +53,9 @@ Here are the key questions we aim to answer through this interactive dashboard:
 
 ### 1) What are the average trends for key weather conditions and air quality metrics globally?
 
-The chart below illustrates the global average trends for key weather conditions and air quality metrics:
-
 </br>
+
+The chart below illustrates the global average trends for key weather conditions and air quality metrics:
 
 <div style="text-align: center;"> <img width="700" alt="Metrics" src="Metrics.png"> </div>
 
@@ -63,11 +63,29 @@ The chart below illustrates the global average trends for key weather conditions
 
 ### 2) How do weather conditions and air quality metrics vary geographically and across different months?
 
-The map below displays the geospatial variation in weather conditions across different countries and months:
-
 </br>
 
+The map below displays the geospatial variation in weather conditions across different countries and months:
+
 <div style="text-align: center;"> <img width="700" alt="Map" src="Map.png"> </div>
+
+The geospatial chart provides insights into weather conditions and air quality metrics, highlighting the following key patterns and trends:
+
+* **Average Temperature:** Most African countries, the Middle East, and South Asia experienced higher average temperatures during this period compared to the rest of the world.
+* **Precipitation:** South Asia recorded the highest levels of precipitation globally.
+* **Humidity:** The Middle East, South Africa, and some North African countries exhibited lower humidity levels compared to other regions.
+* **Pressure:** South Asia experienced lower atmospheric pressure compared to other regions.
+* **Cloud Cover:** Asia, Africa, and South America had significantly less cloud cover than other parts of the world.
+* **Visibility:** Canada and the United States had the highest visibility levels, indicating clearer skies.
+* **Wind & Gusts:** The Northern regions of Africa recorded the highest wind and gust levels, while South America and the Middle East experienced the least wind.
+* **UV Index:** The highest UV index was found in Southern Africa, particularly South Africa, indicating higher exposure to ultraviolet radiation.
+* **Carbon Monoxide:**  Malaysia, Indonesia, and Chile had the highest concentrations of carbon monoxide, suggesting air quality concerns in these regions.
+* **Nitrogen Dioxide:** Africa and South America showed the lowest levels of nitrogen dioxide, indicating relatively cleaner air in these regions.
+* **Ozone Levels:** The highest ozone concentrations were observed in North and South Africa and the Middle East, which may have implications for air quality and health.
+* **PM10 Levels:** Saudi Arabia recorded the highest PM10 index, reflecting elevated particulate matter concentrations in the air.
+* **Sulfur Dioxide:** Asia, particularly China, had the highest sulfur dioxide levels, indicating significant industrial pollution and air quality challenges.
+
+
 
 </br>
 
